@@ -59,11 +59,12 @@ Feature: Cadastro e manutenção de salas (criar, editar e remover), do componen
     And não vejo a sala com identificador "D009" e localização "Prédio E"
     And teste
 
-    Scenario: Aleatorio
-      Given teste
+  Scenario: Aleatorio
+    Given teste
 
-    Scenario: Aleatorio
-      Given teste
-      ajeitandoooooo teste
+  Scenario: Aleatorio
+    Given teste
+    ajeitandoooooo teste
 
-testeeeeeee
+  Scenario: Cenário questão 14
+    Given Ajuste
