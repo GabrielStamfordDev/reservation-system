@@ -68,3 +68,33 @@ Feature: Cadastro e manutenção de salas (criar, editar e remover), do componen
 
   Scenario: Cenário questão 14
     Given Ajuste
+testeeeeeee
+    
+
+
+
+
+
+
+
+
+
+
+
+
+fwdwdww
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Novo teste q 15
+    testeeeeee
